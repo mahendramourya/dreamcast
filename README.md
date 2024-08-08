@@ -14,5 +14,7 @@ Please run these command to start the project <br>
 5. example database 'laravel_dreamcast' and set DB_DATABASE=laravel_dreamcast <br>
 6. composer update <br>
 7. php artisan migrate:fresh --seed <br>
-8. php artisan serve <br>
-9. php artisan storage:link <br>
+8. php artisan storage:link <br>
+9. php artisan key:generate <br>
+10. php artisan serve <br>
+
